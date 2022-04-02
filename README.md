@@ -44,7 +44,7 @@ THEN I find a concise, descriptive title
 > Added a Title Element
 >
 OTHER Items that were improved to functionality / efficiency
-> ADDED href = # to the header
+> ADDED href = # to the header h1 a .seo
 > ADDED ID to the SEO section
 > CHANGED styles.css to align with DRY coding practices
 >   Added .benefit & sub-classes; updated HTML for new objects
