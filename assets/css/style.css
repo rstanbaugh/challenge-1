@@ -82,7 +82,7 @@ p {
 
 .float-right {
     float: right;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .content {
@@ -93,7 +93,7 @@ p {
 
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 25px;
     clear: both;
     float: right;
     width: 20%;
@@ -103,17 +103,17 @@ p {
 }
 
 /* add .benefit and subclasses to replace redundant code */
-.benefit {
+.benefit-detail {
     margin-bottom: 32px;
     color: #ffffff;    
 }
 
-.benefit h3 {
+.benefit-detail h3 {
     margin-bottom: 10px;
     text-align: center;    
 }
 
-.benefit img {
+.benefit-detail img {
     display: block;
     margin: 10px auto;
     max-width: 150px;    
@@ -169,7 +169,7 @@ p {
 }
 */
 
-.service-boxes {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -178,16 +178,16 @@ p {
     color: #ffffff;
 }
 
-.service-boxes img {
+.services img {
     max-height: 200px;
 }
 
-.service-boxes h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;    
 }
 
-/* this is all repititive - replaceing with .service-boxes & .service-boxes sub classes */
+/* this is all repititive - replaceing with .services & .services sub classes */
 /*
 .search-engine-optimization {
     margin-bottom: 20px;
